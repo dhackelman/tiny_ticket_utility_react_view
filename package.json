@@ -2,7 +2,7 @@
   "name": "tiny_ticket_utility",
   "version": "0.0.1",
   "private": true,
-  "homepage": "https://dhackelman.github.io/neworleanswildlifeband/",
+  "homepage": "https://dhackelman.github.io/tiny_ticket_utility_react_view/",
   "devDependencies": {
     "autoprefixer-stylus": "0.10.0",
     "babel-eslint": "^7.1.1",
@@ -28,7 +28,7 @@
     "react-addons-css-transition-group": "15.3.2",
     "react-dom": "15.3.2",
     "react-icons": "^2.2.3",
-    "react-router": "^3.0.2",
+    "react-router": "^3.0.2"
   },
   "scripts": {
     "start": "react-scripts start",
