@@ -1,0 +1,13 @@
+# dependencies
+node_modules
+
+# testing
+src/.jshintrc
+app.css.map
+.sass-cache*
+
+# production
+
+# misc
+.DS_Store
+npm-debug.log*
